@@ -27,6 +27,8 @@ You will need:
 
 5. In the `Send mail as` section click `Add another email address`.
 6. In the yellow pop-up enter the name and WHHC email address.
+    
+    <p align="center"><img src="./assets/step-09.png" /></p>
 7. Ensure the `Treat as an alias.` checkbox is selected
 8. Click `Next Step >`.
 9. Complete the form with the following detauls and click `Add Account >`.
@@ -36,10 +38,6 @@ You will need:
     > Port: 587<br/>
     > Connection: TLS<br/>
     > Username and Password: your mailgun credentials.
-    
-    <br/>
-    
-    <p align="center"><img src="./assets/step-09.png" /></p>
     
 10. Click `Send Verification`.
 11. Make a cup of tea (optional).
